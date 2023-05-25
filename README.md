@@ -2,6 +2,9 @@
 An automated game of Snakes and Ladders for up to 4 players.
 
 
+![Snakes and Ladders Board](https://github.com/brandonlr09/SnakesAndLadders/blob/main/snakesandladders.png)?raw=true "SnakesAndLaddersBoard")
+
+
 - The number of players (2 to 4) is entered by the user.
 - The players names are entered by the user.
 - The game begins.
